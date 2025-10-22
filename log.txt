@@ -1,3 +1,4 @@
 Fix issue in Y [9wYPsi] line 2.1
 Add feature for X [WvI81L] line 5.1
 Improve performance [VyIFae] line 6.1
+Update documentation [oikoV3] line 8.1
